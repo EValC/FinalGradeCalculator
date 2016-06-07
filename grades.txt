@@ -1,0 +1,39 @@
+Name,Final Letter Grade
+Stephen Curry,A
+Michael Jordan,A
+Kobe Bryant,A
+Kevin Durant,A
+Russell Westbrook,B
+Lebron James,A
+Klay Thompson,B
+Chris Paul,A
+Reggie Miller,A
+Tim Duncan,A
+Tony Parker,A
+Steve Nash,A
+Karl Malone,B
+Scottie Pippen,B
+Allen Iverson,B
+Tim Hardaway,C
+Kevin Garnett,C
+Kyrie Irving,C
+Vince Carter,F
+Tracy McGrady,C
+Larry Bird,C
+Magic Johnson,C
+Chris Mullin,C
+John Stockton,B
+David Robinson,C
+Charles Barkley,F
+Derrick Rose,B
+Dwayne Wade,D
+Carmelo Anthony,F
+Ray Allen,B
+
+Total number of each GRADE,COUNT
+
+A,10
+B,8
+C,8
+D,1
+F,3
